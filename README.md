@@ -1,2 +1,2 @@
 # ai-learn
-My AI learning journey
+My AI learning journey.
